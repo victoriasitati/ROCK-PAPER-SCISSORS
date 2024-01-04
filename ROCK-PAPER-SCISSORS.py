@@ -1,5 +1,5 @@
 from getpass import getpass as input
-#getpass in this case prevents each player from viewing each other's input value
+#in this case getpass prevents each player from viewing each other's input value
 print("Hey Hey Hey,welcome to the rock paper scissors extravaganza :)") 
 print("Da Rulz- You are required to select either R,P or S for every single chance you get in the game after the other player has made a move unless you are the one to start the game, got it?")
 print("")
